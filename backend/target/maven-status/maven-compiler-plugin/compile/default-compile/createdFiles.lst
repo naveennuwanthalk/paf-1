@@ -1,0 +1,15 @@
+com\digitalnuxara\skillshare\service\SkillShareService.class
+com\digitalnuxara\social\model\SocialPost.class
+com\digitalnuxara\notification\repository\NotificationRepository.class
+com\nuxara\backend\BackendApplication.class
+com\digitalnuxara\notification\model\Notification.class
+com\nuxara\backend\config\SupabaseConfig.class
+com\nuxara\backend\controller\TestController.class
+com\digitalnuxara\social\service\SocialPostService.class
+com\digitalnuxara\skillshare\controller\SkillShareController.class
+com\digitalnuxara\social\controller\SocialPostController.class
+com\digitalnuxara\notification\service\NotificationService.class
+com\digitalnuxara\skillshare\model\SkillShare.class
+com\digitalnuxara\skillshare\repository\SkillShareRepository.class
+com\digitalnuxara\notification\controller\NotificationController.class
+com\digitalnuxara\social\repository\SocialPostRepository.class
